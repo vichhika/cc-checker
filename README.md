@@ -1,2 +1,2 @@
 # cc-checker
-check credit card
+Your bank use 2D lol
